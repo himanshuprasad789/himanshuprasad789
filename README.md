@@ -1,3 +1,4 @@
+![](himanshu.dev.gif)
 ### Hi there 👋, I'm Himanshu Prasad
 
 [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/himanshuprasad789/himanshuprasad/blob/main/Himanshu_Prasad-RESUME.pdf)
