@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Himanshu Prasad
 
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://knlnks.github.io/resume/Kunalan_Kevin_Subagaran_Resume.pdf)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-prasad-515890175/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadhimanshu789@gmail.com)
+
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshuprasad789)](https://github.com/anuraghazra/github-readme-stats)
 
 
