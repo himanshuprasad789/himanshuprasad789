@@ -1,7 +1,7 @@
 ![](himanshu.dev.gif)
 ### Hi there 👋, I'm Himanshu Prasad
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/himanshuprasad789/himanshuprasad/blob/main/Himanshu_Prasad-RESUME.pdf)
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](/HimanshuPrasad-resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-prasad-515890175/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadhimanshu789@gmail.com)
 
